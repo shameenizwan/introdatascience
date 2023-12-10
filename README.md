@@ -1,4 +1,4 @@
-# My Project
+# Intortodatascience
 
 This is a brief description of my project.
 
